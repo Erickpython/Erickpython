@@ -47,15 +47,15 @@
 ---
 
 ### 🚀 Featured Projects  
-- [**Personal Portfolio**](https://github.com/Erickpython/erickPortfolio) – My responsive portfolio website  
-- [**Hackathon Portfolio**](https://github.com/Erickpython/July2025Portfolio_Hackathon) – Creative hackathon entry  
+- [**Personal Portfolio**](erickwambugu.netlify.app) – My responsive portfolio website  
+- [**Hackathon Portfolio**](https://github.com/Erickpython/July2025Portifolio_Hackathon) – July 2025 PLP Creative Hackathon  
 
 ---
 
 ### 📫 Contact Me  
 - 📧 Email: **erickwambugu@example.com**  
-- 🌐 Portfolio: [My Website](#)  
-- 💼 LinkedIn: [LinkedIn Profile](#)  
+- 🌐 Portfolio: [My Website](erickwambugu.netlify.app)  
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/erick-wambugu-425a15161/)  
 
 ---
 
