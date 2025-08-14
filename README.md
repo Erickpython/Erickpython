@@ -53,7 +53,7 @@
 ---
 
 ### 📫 Contact Me  
-- 📧 Email: **erickwambugu@example.com**  
+- 📧 Email: **erick.wambugu23@gmail.com**  
 - 🌐 Portfolio: [My Website](erickwambugu.netlify.app)  
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/erick-wambugu-425a15161/)  
 
