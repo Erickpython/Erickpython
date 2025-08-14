@@ -1,19 +1,18 @@
-<!-- Banner / Header -->
-<h1 align="center">Hi 👋, I'm Erick Wambugu</h1>
-<h3 align="center">🌍 Meteorologist | 👨‍🏫 Educator | 💻 Web & Python Developer | MERN Stack | 🌱 Tech for Good Advocate</h3>
+<!-- Animated Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Erick+Wambugu;Meteorologist+%26+Educator;Web+Apps+%26+Python+Developer;Full+Stack+(MERN)+Developer;Tech+for+Good+Advocate" alt="Typing SVG" />
+</h1>
 
 ---
 
-<!-- About Me -->
 ### 👨‍💻 About Me  
-- 🌟 Passionate about **creating impactful software solutions**  
-- 💡 I believe in **Tech for Good** and using code to solve real-world problems  
-- 🌱 Currently learning **Full Stack Development (MERN)**  
-- ⚡ Fun fact: I love **exploring data, teaching, and creative coding**  
+- 🌍 Meteorologist & Educator  
+- 💻 Web Apps & Python Developer  
+- 🌱 Learning **Full Stack (MERN)** at PLP Scholarship  
+- ⚡ Fun fact: I can explain cloud formation *and* code it  
 
 ---
 
-<!-- Skills -->
 ### 🛠 Skills & Tools  
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -28,7 +27,6 @@
 
 ---
 
-<!-- GitHub Stats -->
 ### 📊 GitHub Stats  
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Erickpython&show_icons=true&theme=radical" height="165"/>
@@ -37,33 +35,32 @@
 
 ---
 
-<!-- Projects -->
+### 🐍 Contribution Snake  
+![GitHub Snake Light](https://github.com/Erickpython/Erickpython/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/Erickpython/Erickpython/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+---
+
+### 📈 Contribution Graph  
+[![Erick's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Erickpython&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ### 🚀 Featured Projects  
 - [**Personal Portfolio**](https://github.com/Erickpython/erickPortfolio) – My responsive portfolio website  
 - [**Hackathon Portfolio**](https://github.com/Erickpython/July2025Portfolio_Hackathon) – Creative hackathon entry  
 
 ---
 
-<!-- Contact -->
 ### 📫 Contact Me  
 - 📧 Email: **erickwambugu@example.com**  
 - 🌐 Portfolio: [My Website](#)  
 - 💼 LinkedIn: [LinkedIn Profile](#)  
 
 ---
+
+### 👀 Visitors Count  
+![Visitor Count](https://komarev.com/ghpvc/?username=Erickpython&color=brightgreen&style=flat-square)
+
+---
 ⭐️ From [Erickpython](https://github.com/Erickpython)
-
-<!--
-**Erickpython/Erickpython** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
