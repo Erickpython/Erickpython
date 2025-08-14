@@ -1,9 +1,11 @@
-<!-- Animated Typing Header -->
 ---
+<!-- Animated Typing Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Erick+Wambugu;Meteorologist+%26+Educator;Web+Apps+%26+Python+Developer;Full+Stack+(MERN)+Developer;Tech+for+Good+Advocate" alt="Typing SVG" />
 </h1>
+
 ---
+
 ---
 
 ### 👨‍💻 About Me  
