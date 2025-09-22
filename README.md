@@ -1,31 +1,27 @@
 ---
 <!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Erick+Wambugu;Meteorologist+%26+Educator;Web+Apps+%26+Python+Developer;Full+Stack+(MERN)+Developer;Tech+for+Good+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Erick+Wambugu;Meteorologist+%26+Educator;Front-End+%26+Python+Developer;AI+Enthusiast;Tech+for+Good+Advocate" alt="Typing SVG" />
 </h1>
-
----
 
 ---
 
 ### 👨‍💻 About Me  
 - 🌍 Meteorologist & Educator  
-- 💻 Web Apps & Python Developer  
-- 🌱 Learning **Full Stack (MERN)** at PLP Scholarship  
+- 💻 Front-End & Python Developer  
+- 🌱 Currently learning **AI for Software Engineering** at the **Power Learn Project**, specializing in **Artificial Intelligence, Machine Learning, and Data Analysis**  
 - ⚡ Fun fact: I can explain cloud formation *and* code it  
 
 ---
 
 ### 🛠 Skills & Tools  
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
@@ -50,14 +46,14 @@
 ---
 
 ### 🚀 Featured Projects  
-- [**Personal Portfolio**](erickwambugu.netlify.app) – My responsive portfolio website  
+- [**Personal Portfolio**](https://erickwambugu.netlify.app) – My responsive portfolio website  
 - [**Hackathon Portfolio**](https://github.com/Erickpython/July2025Portifolio_Hackathon) – July 2025 PLP Creative Hackathon  
 
 ---
 
 ### 📫 Contact Me  
 - 📧 Email: **erick.wambugu23@gmail.com**  
-- 🌐 Portfolio: [My Website](erickwambugu.netlify.app)  
+- 🌐 Portfolio: [My Website](https://erickwambugu.netlify.app)  
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/erick-wambugu-425a15161/)  
 
 ---
