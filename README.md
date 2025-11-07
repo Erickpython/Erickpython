@@ -40,7 +40,6 @@
   <img src="https://img.shields.io/badge/Machine%20Learning%20Core-Kodecamp%205x-00E676?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%20for%20Software%20Engineering-PLP%20Africa-2196F3?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Analysis-Be%20Techified%20Academy-FFB300?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MERN%20Stack-Full%20Stack%20Track-9C27B0?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
 
 ---
