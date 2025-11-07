@@ -1,9 +1,6 @@
 <!-- Animated Typing Header -->
 <h1 align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Erick+Wambugu;Meteorologist+🌦️+%26+Educator;AI+%26+Machine+Learning+Enthusiast;Python+%26+Data+Analysis+Developer;Building+Tech+that+Matters+💡"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F700&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Erick+Wambugu;Meteorologist+%26+Educator;Full+Stack+%26+AI+Developer+in+Training;Machine+Learning+%26+Data+Analysis+Enthusiast;Building+Tech+that+Matters" alt="Typing SVG" />
 </h1>
 
 ---
