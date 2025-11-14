@@ -68,7 +68,8 @@
 - 🌐 [**Personal Portfolio**](https://erickwambugu.netlify.app) — Responsive portfolio website  
 - 💼 [**PLP Hackathon Portfolio**](https://github.com/Erickpython/July2025Portifolio_Hackathon) — July 2025 PLP Creative Hackathon  
 - 🤖 [**Machine Learning Core Tasks**](https://github.com/Erickpython/kodeCamp_5X-MachineLearning) — ML projects integrating math + Python  
-- 📊 [**Data Analysis Practice Projects**](https://github.com/Erickpython/BeTechified_Data_Analysis-Nov025) — Visualization & analytics explorations  
+- 📊 [**Data Analysis Practice Projects**](https://github.com/Erickpython/BeTechified_Data_Analysis-Nov025) — Visualization & analytics explorations
+- 🧑‍🎓 [**EduTrack LMS**](https://github.com/Erickpython/EduTrack_LMS) - Offline Learning Management System 
 
 ---
 
