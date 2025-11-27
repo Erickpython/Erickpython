@@ -14,7 +14,7 @@
 - 🌍 Meteorologist & Educator turned **Tech Innovator**  
 - 💻 Passionate about **AI, Machine Learning, Data Science and Data-Driven Solutions**  
 - 📘 Currently exploring:
-  - 🤖 **Machine Learning Core** at **Kodecamp 5x** (Mathematics + Python integration)
+  - 🤖 **Machine Learning Core** at **Kodecamp 5x** (Mathematics + Python integration) 
   - 🧠 **AI for Software Engineering** at **Power Learn Project Africa**
   - 📊 **Data Analysis** at **Be Techified Academy**
 - 💡 Believer in **Tech for Good** — using technology to empower communities  
