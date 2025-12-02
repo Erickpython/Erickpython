@@ -16,7 +16,8 @@
 - 📘 Currently exploring:
   - 🤖 **Machine Learning Core** at **Kodecamp 5x** (Mathematics + Python integration) 
   - 🧠 **AI for Software Engineering** at **Power Learn Project Africa**
-  - 📊 **Data Analysis** at **Be Techified Academy**
+  - 📊 **Data Analysis** at **Be Techified Academy Nov 2025 Cohort**
+  - 💻 **BackEnd Development** at **BeTechified Academy Dec 2025 Cohort**
 - 💡 Believer in **Tech for Good** — using technology to empower communities  
 - ⚡ *Fun fact:* I can explain how clouds form *and code predictive models about them!* ☁️➡️📈  
 
@@ -77,6 +78,7 @@
 - 💼 [**PLP Hackathon Portfolio**](https://github.com/Erickpython/July2025Portifolio_Hackathon) — July 2025 PLP Creative Hackathon  
 - 🤖 [**Machine Learning Core Tasks**](https://github.com/Erickpython/kodeCamp_5X-MachineLearning) — ML projects integrating math + Python  
 - 📊 [**Data Analysis Practice Projects**](https://github.com/Erickpython/BeTechified_Data_Analysis-Nov025) — Visualization & analytics explorations
+- 💻 [**BackEnd Development Learning Portfolio**](https://github.com/Erickpython/BeTechfied_BackEnd-Development_Dec025) - BackEnd Development sith Node.js 
 - 🧑‍🎓 [**EduTrack LMS**](https://github.com/Erickpython/EduTrack_LMS) - Offline Learning Management System 
 
 
