@@ -1,85 +1,27 @@
-<!-- Animated Typing Header --> 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Erick+Wambugu;Meteorologist+%26+ClimateTech+Innovator;Python+Developer+%26+Data+Analyst;AI+%26+Machine+Learning+Practitioner;Building+Solutions+for+Weather+%26+Climate" alt="Typing SVG" />
-</h1>
+# 💫 About Me:
+<br>    🌍 Meteorologist (First Class Honors) and ClimateTech innovator leveraging Python, AI, and ML for weather forecasting, climate modeling, and data analysis<br>    💻 Skilled in Python, NumPy, Pandas, Matplotlib, xarray, and data-driven modeling for atmospheric science<br>    📘 Currently advancing my expertise in:<br>        🤖 Machine Learning Core at KodeCamp 5x (Neural Networks, CNNs, LLM foundations)<br>        🧠 AI for Software Engineering at Power Learn Project Africa<br>        📊 Data Analysis (BeTechified Bootcamp, Completed 2025)<br>        💻 Backend Development (BeTechified Bootcamp, Completed 2025)<br>        ☁️ Atmospheric Modeling with WRF-ARW (High-resolution simulations, climate/weather scenarios)<br>    💡 Passionate about Tech for Good, building tools that empower communities and improve climate/weather understanding<br>    ⚡ Fun fact: I can explain how clouds form and code predictive models for them! ☁️➡️📈<br>
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61584784924483) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/erick-wambugu-425a15161/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@erick254_official) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:erick.wambugu23@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Erickpython&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Erickpython&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Erickpython&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Erickpython&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Erickpython&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Erickpython&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <a href="mailto:erick.wambugu23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/erick-wambugu-425a15161/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://erickwambugu.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00E676?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://github.com/Erickpython"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-### 👨‍💻 About Me  
-- 🌍 Meteorologist (First Class Honors) and **ClimateTech innovator** leveraging Python, AI, and ML for **weather forecasting, climate modeling, and data analysis**  
-- 💻 Skilled in **Python, NumPy, Pandas, Matplotlib, xarray**, and **data-driven modeling** for atmospheric science  
-- 📘 Currently advancing my expertise in:
-  - 🤖 **Machine Learning Core** at **KodeCamp 5x** (Neural Networks, CNNs, LLM foundations)
-  - 🧠 **AI for Software Engineering** at **Power Learn Project Africa**
-  - 📊 **Data Analysis** (BeTechified Bootcamp, Completed 2025)
-  - 💻 **Backend Development** (BeTechified Bootcamp, Completed 2025)
-  - ☁️ **Atmospheric Modeling with WRF-ARW** (High-resolution simulations, climate/weather scenarios)
-- 💡 Passionate about **Tech for Good**, building tools that empower communities and improve climate/weather understanding  
-- ⚡ *Fun fact:* I can explain how clouds form *and code predictive models for them!* ☁️➡️📈  
-
----
-
-### 🧰 Tech Stack & Tools  
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Machine%20Learning-00BFA6?style=for-the-badge&logo=tensorflow&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8E24AA?style=for-the-badge&logo=ai&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/xarray-0066CC?style=for-the-badge&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/WRF--ARW-00BFA6?style=for-the-badge&logo=none&logoColor=white"/>
-</p>
-
----
-
-### 🎓 Professional Development  
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning%20Core-Kodecamp%205x-00E676?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20for%20Software%20Engineering-PLP%20Africa-2196F3?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-BeTechified-FFB300?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend%20Development-BeTechified-00E676?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Atmospheric%20Modeling-WRF--ARW-2196F3?style=for-the-badge&logo=none&logoColor=white"/>
-</p>
-
----
-
-### 🚀 Featured Projects  
-- 🌐 [**Personal Portfolio**](https://erickwambugu.netlify.app) — Responsive portfolio website  
-- 💼 [**PLP Hackathon Portfolio**](https://github.com/Erickpython/July2025Portifolio_Hackathon) — AI/ML + Python projects  
-- 🤖 [**Machine Learning Core Tasks**](https://github.com/Erickpython/kodeCamp_5X-MachineLearning) — Python-based ML, neural networks, applied to data modeling  
-- 📊 [**Data Analysis Projects**](https://github.com/Erickpython/BeTechified_Data_Analysis-Nov025) — Data cleaning, visualization, insights  
-- 💻 [**Backend Development Portfolio**](https://github.com/Erickpython/BeTechfied_BackEnd-Development_Dec025) — Node.js & GitHub workflows  
-- 🧑‍🎓 [**EduTrack LMS**](https://github.com/Erickpython/EduTrack_LMS) — Offline learning management system  
-
----
-
-### 📊 GitHub Stats & Activity  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Erickpython&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erickpython&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Erickpython&bg_color=0d1117&color=00e676&line=00bcd4&point=ffffff&area=true&hide_border=true)](https://github.com/Erickpython)
-</p>
-
----
-
-⭐ *From [Erickpython](https://github.com/Erickpython) — Meteorology + Python + ClimateTech 🚀 Always Learning, Always Building*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
